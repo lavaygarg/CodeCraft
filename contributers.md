@@ -11,9 +11,17 @@
 | Himansh Arora           | Humanshere           | IIIT Allahabad                 | 
 | Himanshu Arora          | HimanshuArora-pixel  | IIIT Allahabad                 |
 | Shambhu                 | Zarxeon              | IIIT Allahabad                 |
+| Abhishek Tripathi       | Astinel-prime        | IIIT Allahabad                 |
 | Mohan Kumar             | aricthecoder         | IIIT Allahabad                 |
 | Rushal Verma            | Rushalverma          | IIIT allahabad                 |
 | Avaneesh Verma          | avaneeshk2307-wq     | IIIT Allahabad                 |
-
+| Jatin                   | Jatin-980            | IIIT Allahabad                 |
+| Aditi Guin              | GuinAditi            | KIIT                           |
+| Saurav Gitte            | SauravGitte          | IIIT Allahabad                 |
+| Sourish Awasthi         | LooninS              | IIIT Allahabad                 |
+| Saumya Sood             | Marcella2706         | IIIT Allahabad                 |
+| Akshat Parmar           | AkshaTGA             | IIIT Allahabad                 |
+| Ishan Tripathi          | ishantripathi64      | IIIT Allahabad                 |
+| Ayush Mishra            | ayush-mg             | IIIT Allahabad                 | 
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
